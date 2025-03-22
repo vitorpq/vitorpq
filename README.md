@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitorpq
-- 👀 I’m interested in Financial Markets
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Financial Markets, AI, Python, Data Analysis
+- 🌱 I’m currently learning about AI for Financial Markets
 
 <!---
 vitorpq/vitorpq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
