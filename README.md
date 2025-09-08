@@ -61,7 +61,7 @@ Atuo conectando tecnologia, negócios e educação de forma acessível para pequ
 Estou disponível para **projetos freelance**, **consultorias** e **colaborações**.  
 Fale comigo:
 
-- 📧 **vitoremmanuel@gmail.com**  
+- 📧 **vitor@eng2tech.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitorem)  
 - 🌐 [www.eng2tech.com.br](https://www.eng2tech.com.br)
 
