@@ -51,7 +51,7 @@ Meu objetivo é **resolver problemas reais com soluções práticas**, acessíve
 
 ## 💼 Sobre mim
 
-Sou professor universitário, consultor financeiro e fundador da [Eng2Tech Tecnologia e Soluções](https://www.eng2tech.com.br).  
+Sou professor universitário, consultor financeiro e fundador da [Eng2Tech Tecnologia e Soluções](https://www.eng2tech.com).  
 Atuo conectando tecnologia, negócios e educação de forma acessível para pequenas e médias empresas. Também sou entusiasta de **trading algorítmico** e **gestão de portfólios com IA**.
 
 ---
@@ -63,7 +63,7 @@ Fale comigo:
 
 - 📧 **vitor@eng2tech.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitorem)  
-- 🌐 [www.eng2tech.com.br](https://www.eng2tech.com.br)
+- 🌐 [www.eng2tech.com.br](https://www.eng2tech.com)
 
 ---
 
