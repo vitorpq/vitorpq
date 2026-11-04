@@ -47,10 +47,10 @@ Aplicação para consulta e edição governada de conhecimento corporativo, com 
 
 [Ver case](cases/business-knowledge-platform.md)
 
-### 5. Financial Management Application
-Sistema financeiro com autenticação, perfis de acesso, banco relacional, dashboards e processamento de dados.
+### 5. Business Management Application
+Aplicação interna com autenticação, perfis de acesso, banco relacional, dashboards e processamento de planilhas.
 
-[Ver case](cases/financial-management.md)
+[Ver case](cases/business-management.md)
 
 ## Projetos públicos
 
