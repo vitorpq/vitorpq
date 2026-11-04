@@ -2,20 +2,20 @@
 
 **Python Automation & Applied AI Engineer**
 
-Construo soluções de automação, dados e inteligência artificial aplicadas a processos empresariais — da extração de documentos e ETL até APIs, aplicações internas, agentes de IA e deploy em produção.
+I build automation, data, and applied AI solutions for business workflows — from document extraction and ETL to APIs, internal applications, AI agents, and production deployment.
 
-## O que eu entrego
+## What I Build
 
-- **Automação com Python** — rotinas, processamento em lote, integrações e redução de trabalho manual
-- **Document AI / OCR** — PDFs, documentos escaneados, tabelas e extração estruturada para Excel, CSV, JSON ou banco
-- **Data Processing** — Pandas, ETL, consolidação, limpeza e transformação de dados
-- **AI Applications** — RAG, LLMs, agentes especializados e assistentes conectados a bases de conhecimento
-- **Backend & APIs** — FastAPI, autenticação, bancos relacionais e integrações REST
-- **Internal Tools** — Streamlit, NiceGUI e aplicações web para processos internos
-- **Workflow Automation** — n8n, APIs e automações entre sistemas
-- **Production Deployment** — Docker, Docker Compose, Linux, VPS, reverse proxy, Redis e PostgreSQL
+- **Python Automation** — repetitive task automation, batch processing, integrations, and workflow optimization
+- **Document AI / OCR** — PDFs, scanned documents, tables, and structured extraction to Excel, CSV, JSON, or databases
+- **Data Processing** — Pandas, ETL, data consolidation, cleaning, and transformation
+- **AI Applications** — RAG, LLMs, specialized agents, and assistants connected to business knowledge
+- **Backend & APIs** — FastAPI, authentication, relational databases, and REST integrations
+- **Internal Tools** — Streamlit, NiceGUI, and lightweight web applications for operational workflows
+- **Workflow Automation** — n8n, APIs, and system-to-system automation
+- **Production Deployment** — Docker, Docker Compose, Linux, VPS, reverse proxy, Redis, and PostgreSQL
 
-## Stack principal
+## Core Stack
 
 `Python` · `FastAPI` · `Pandas` · `SQLModel` · `PostgreSQL` · `Redis` · `Celery`  
 `Streamlit` · `NiceGUI` · `Next.js` · `TypeScript` · `Playwright`  
@@ -25,61 +25,61 @@ Construo soluções de automação, dados e inteligência artificial aplicadas a
 
 ## Portfolio Cases
 
-Os projetos profissionais abaixo foram documentados de forma sanitizada. Código, nomes de clientes e detalhes proprietários permanecem privados.
+The professional projects below are documented in sanitized form. Client names, private code, credentials, and proprietary implementation details remain confidential.
 
 ### 1. AI Document Processing Pipeline
-Pipeline para processamento em lote de documentos, extração estruturada, aplicação de regras de negócio e geração automatizada de planilhas.
+Batch document-processing pipeline for structured data extraction, business rules, validation, and automated spreadsheet generation.
 
-[Ver case](cases/ai-document-processing.md)
+[View case](cases/ai-document-processing.md)
 
 ### 2. AI-Assisted Evaluation Platform
-Aplicação full-stack com IA multimodal, processamento assíncrono, revisão humana, autenticação, banco de dados e exportação de resultados.
+Full-stack platform combining multimodal AI, asynchronous processing, human review, authentication, relational storage, and result export.
 
-[Ver case](cases/ai-assisted-evaluation.md)
+[View case](cases/ai-assisted-evaluation.md)
 
 ### 3. Enterprise Multi-Agent AI Assistant
-Arquitetura de assistente empresarial com múltiplos agentes especializados, RAG, memória, integrações e confirmação humana para ações sensíveis.
+Enterprise assistant architecture with specialized agents, RAG, memory, integrations, and human confirmation for sensitive actions.
 
-[Ver case](cases/enterprise-ai-assistant.md)
+[View case](cases/enterprise-ai-assistant.md)
 
 ### 4. Business Knowledge & Versioning Platform
-Aplicação para consulta e edição governada de conhecimento corporativo, com API, frontend web, versionamento e sincronização.
+Web application for governed business knowledge management with API access, versioning, synchronization, and concurrency control.
 
-[Ver case](cases/business-knowledge-platform.md)
+[View case](cases/business-knowledge-platform.md)
 
 ### 5. Business Management Application
-Aplicação interna com autenticação, perfis de acesso, banco relacional, dashboards e processamento de planilhas.
+Internal business application with authentication, role-based access, relational storage, dashboards, and spreadsheet processing.
 
-[Ver case](cases/business-management.md)
+[View case](cases/business-management.md)
 
-## Projetos públicos
+## Public Projects
 
 ### AcademicBot
-Assistente RAG com LangChain, FAISS, Gemini e Streamlit.
+RAG assistant built with LangChain, FAISS, Gemini, and Streamlit.
 
 ### AI4Papers
-Automação Python para leitura de URLs em Excel, download em lote de PDFs, tratamento de falhas e fallback com Playwright.
+Python automation tool that reads URLs from Excel, downloads PDFs in batch, handles failures, and uses Playwright as a browser fallback.
 
 ### OneScriber
-Ferramenta local de transcrição e legendagem de vídeos.
+Local transcription and subtitle generation tool.
 
 ### MetaTrader 5 Quant Server
-Ambiente containerizado para execução de MetaTrader 5 em Linux.
+Containerized environment for running MetaTrader 5 on Linux.
 
-## Experiência profissional
+## Professional Background
 
-Fundador da **ENG2TECH**, atuando no desenvolvimento de soluções de automação, dados e IA aplicada para processos empresariais e educacionais.
+Founder of **ENG2TECH**, where I work on automation, data, and applied AI solutions for business and education workflows.
 
-Também atuo como professor universitário e consultor, o que complementa a atuação técnica com compreensão de processos, métricas e problemas de negócio.
+I also work as a university professor and consultant, which strengthens my ability to translate business problems into practical technical solutions.
 
 ## Freelance
 
-Disponível para projetos em:
+Available for projects involving:
 
 **Python Automation · Data Processing · PDF/OCR · FastAPI · RAG · AI Agents · n8n · APIs · Internal Tools · Docker/VPS**
 
-## Contato
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/vitorem
 - ENG2TECH: https://www.eng2tech.com
-- E-mail: vitor@eng2tech.com
+- Email: vitor@eng2tech.com
